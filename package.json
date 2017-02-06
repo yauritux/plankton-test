@@ -4,7 +4,7 @@
   "description": "Plankton Test App",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app"
   },
   "author": "Yauri Attamimi <yauritux@gmail.com>",
   "license": "MIT",
